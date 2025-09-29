@@ -1,1 +1,1 @@
-# beargames.storeofc
+# beargames.store
